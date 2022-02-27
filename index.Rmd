@@ -11,7 +11,7 @@ output:
 **Welcome to my website!**
 
 
-# Getting started
+# Blog
 
 Click the links in the menu above to look around.
 
