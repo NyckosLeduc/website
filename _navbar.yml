@@ -8,7 +8,7 @@ left:
         href: ./aboutme.html
   - text: "Project"
     menu:
-       - text: "Project part TEST"
+       - text: "Project 1"
          href: ./project1.html
        - text: "Project part TEST 2"
          href: ./project2.html
