@@ -10,7 +10,7 @@ left:
     menu:
        - text: "Project part TEST"
          href: ./project1.html
-       - text: "Project part 2"
+       - text: "Project part TEST 2"
          href: ./project2.html
   - text: "Contact"
     href: ./contact.html
