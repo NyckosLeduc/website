@@ -1,5 +1,5 @@
 ---
-title: "My website"
+title: "Nicolas Leduc"
 output: 
   html_document:
     toc: FALSE
@@ -8,7 +8,7 @@ output:
 
 
 
-**Welcome to my website!**
+**Welcome to my Blog website !**
 
 
 # Blog
